@@ -28,6 +28,7 @@ stage("poddd") {
                             stage("disable job") {
                                 sh "echo $i"
                                 //println disabledjobs[i]
+                                //test
                             }
                         }
                     
